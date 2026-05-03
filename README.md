@@ -2,6 +2,10 @@
 
 An end-to-end Machine Learning project designed to predict loan approval status based on applicant demographics, financial background, and credit history. This project utilizes Python and Scikit-Learn to build, evaluate, and optimize classification models.
 
+## 🚀 Live Demo
+You can access the live application here:  
+[CreditWise Loan Predictor](https://pixel-perfect-clone-1151.lovable.app)
+
 ## 📝 Project Overview
 Financial institutions receive thousands of loan applications daily. This project automates the loan eligibility process based on customer details provided while filling out an online application form. By analyzing various factors, the model helps identify eligible customers faster and with higher accuracy.
 
